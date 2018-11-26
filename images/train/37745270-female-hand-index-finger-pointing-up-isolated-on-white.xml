@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>37745270-female-hand-index-finger-pointing-up-isolated-on-white.jpg</filename>
+	<path>D:\Temp Workspace\SSD controller\images\37745270-female-hand-index-finger-pointing-up-isolated-on-white.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>450</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>move</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>59</xmin>
+			<ymin>71</ymin>
+			<xmax>248</xmax>
+			<ymax>386</ymax>
+		</bndbox>
+	</object>
+</annotation>

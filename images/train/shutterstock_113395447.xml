@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>shutterstock_113395447.jpg</filename>
+	<path>D:\Temp Workspace\SSD controller\images\shutterstock_113395447.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1000</width>
+		<height>667</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>shoot</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>693</xmin>
+			<ymin>250</ymin>
+			<xmax>804</xmax>
+			<ymax>336</ymax>
+		</bndbox>
+	</object>
+</annotation>

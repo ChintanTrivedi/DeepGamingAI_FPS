@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>3508302_300.jpg</filename>
+	<path>D:\Temp Workspace\SSD controller\images\3508302_300.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>shoot</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>98</xmin>
+			<ymin>228</ymin>
+			<xmax>204</xmax>
+			<ymax>262</ymax>
+		</bndbox>
+	</object>
+</annotation>

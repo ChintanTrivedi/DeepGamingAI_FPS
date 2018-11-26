@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>getty_rf_photo_of_teeth.jpg</filename>
+	<path>D:\Temp Workspace\SSD controller\images\getty_rf_photo_of_teeth.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>692</width>
+		<height>384</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>shoot</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>194</xmin>
+			<ymin>27</ymin>
+			<xmax>594</xmax>
+			<ymax>265</ymax>
+		</bndbox>
+	</object>
+</annotation>

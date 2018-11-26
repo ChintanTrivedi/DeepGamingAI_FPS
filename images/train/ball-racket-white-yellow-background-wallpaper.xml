@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>ball-racket-white-yellow-background-wallpaper.jpg</filename>
+	<path>D:\Temp Workspace\SSD controller\images\ball-racket-white-yellow-background-wallpaper.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2387</width>
+		<height>2546</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>aim</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>526</xmin>
+			<ymin>699</ymin>
+			<xmax>1786</xmax>
+			<ymax>1938</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>lpx-u23347374.jpg</filename>
+	<path>D:\Temp Workspace\SSD controller\images\lpx-u23347374.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>457</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>move</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>107</xmin>
+			<ymin>117</ymin>
+			<xmax>173</xmax>
+			<ymax>249</ymax>
+		</bndbox>
+	</object>
+</annotation>

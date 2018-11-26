@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>2232_fit512.jpg</filename>
+	<path>D:\Temp Workspace\SSD controller\images\2232_fit512.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>341</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>move</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>201</xmin>
+			<ymin>28</ymin>
+			<xmax>351</xmax>
+			<ymax>302</ymax>
+		</bndbox>
+	</object>
+</annotation>

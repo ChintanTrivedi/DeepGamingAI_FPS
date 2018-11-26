@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>8792mowglj701.jpg</filename>
+	<path>D:\Temp Workspace\SSD controller\images\8792mowglj701.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>838</width>
+		<height>470</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>move</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>578</xmin>
+			<ymin>209</ymin>
+			<xmax>700</xmax>
+			<ymax>423</ymax>
+		</bndbox>
+	</object>
+</annotation>

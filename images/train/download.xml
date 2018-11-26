@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>download.jpg</filename>
+	<path>D:\Temp Workspace\SSD controller\images\download.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>168</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>aim</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>156</xmin>
+			<ymin>50</ymin>
+			<xmax>230</xmax>
+			<ymax>126</ymax>
+		</bndbox>
+	</object>
+</annotation>

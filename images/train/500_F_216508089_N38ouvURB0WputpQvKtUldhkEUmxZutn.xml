@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>500_F_216508089_N38ouvURB0WputpQvKtUldhkEUmxZutn.jpg</filename>
+	<path>D:\Temp Workspace\SSD controller\images\500_F_216508089_N38ouvURB0WputpQvKtUldhkEUmxZutn.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>334</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>move</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>367</xmin>
+			<ymin>19</ymin>
+			<xmax>411</xmax>
+			<ymax>75</ymax>
+		</bndbox>
+	</object>
+</annotation>

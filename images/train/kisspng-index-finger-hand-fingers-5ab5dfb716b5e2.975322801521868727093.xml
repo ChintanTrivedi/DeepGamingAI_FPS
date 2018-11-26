@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>kisspng-index-finger-hand-fingers-5ab5dfb716b5e2.975322801521868727093.jpg</filename>
+	<path>D:\Temp Workspace\SSD controller\images\kisspng-index-finger-hand-fingers-5ab5dfb716b5e2.975322801521868727093.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>900</width>
+		<height>1980</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>move</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>96</xmin>
+			<ymin>143</ymin>
+			<xmax>771</xmax>
+			<ymax>1392</ymax>
+		</bndbox>
+	</object>
+</annotation>

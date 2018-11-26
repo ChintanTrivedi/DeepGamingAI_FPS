@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>Index_finger_=_to_attention.jpg</filename>
+	<path>D:\Temp Workspace\SSD controller\images\Index_finger_=_to_attention.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2412</width>
+		<height>2419</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>move</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>489</xmin>
+			<ymin>195</ymin>
+			<xmax>1946</xmax>
+			<ymax>2419</ymax>
+		</bndbox>
+	</object>
+</annotation>

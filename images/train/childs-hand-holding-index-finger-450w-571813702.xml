@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>childs-hand-holding-index-finger-450w-571813702.jpg</filename>
+	<path>D:\Temp Workspace\SSD controller\images\childs-hand-holding-index-finger-450w-571813702.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>450</width>
+		<height>320</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>move</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>133</xmin>
+			<ymin>33</ymin>
+			<xmax>245</xmax>
+			<ymax>253</ymax>
+		</bndbox>
+	</object>
+</annotation>

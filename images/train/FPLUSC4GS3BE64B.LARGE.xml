@@ -1,0 +1,38 @@
+<annotation>
+	<folder>images</folder>
+	<filename>FPLUSC4GS3BE64B.LARGE.jpg</filename>
+	<path>D:\Temp Workspace\SSD controller\images\FPLUSC4GS3BE64B.LARGE.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>1024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>aim</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>4</xmin>
+			<ymin>134</ymin>
+			<xmax>518</xmax>
+			<ymax>643</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>aim</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>545</xmin>
+			<ymin>197</ymin>
+			<xmax>1024</xmax>
+			<ymax>762</ymax>
+		</bndbox>
+	</object>
+</annotation>

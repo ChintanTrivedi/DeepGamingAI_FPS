@@ -1,0 +1,38 @@
+<annotation>
+	<folder>images</folder>
+	<filename>woman-holding-up-her-index-finger_1832451.jpg</filename>
+	<path>D:\Temp Workspace\SSD controller\images\woman-holding-up-her-index-finger_1832451.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1300</width>
+		<height>867</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>move</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>687</xmin>
+			<ymin>237</ymin>
+			<xmax>788</xmax>
+			<ymax>438</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>shoot</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>954</xmin>
+			<ymin>247</ymin>
+			<xmax>1023</xmax>
+			<ymax>295</ymax>
+		</bndbox>
+	</object>
+</annotation>

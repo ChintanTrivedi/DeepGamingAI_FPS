@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>5193324-a-tennis-racket-and-new-tennis-ball-on-a-freshly-painted-tennis-court.jpg</filename>
+	<path>D:\Temp Workspace\SSD controller\images\5193324-a-tennis-racket-and-new-tennis-ball-on-a-freshly-painted-tennis-court.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1200</width>
+		<height>801</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>aim</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>181</xmin>
+			<ymin>215</ymin>
+			<xmax>531</xmax>
+			<ymax>558</ymax>
+		</bndbox>
+	</object>
+</annotation>

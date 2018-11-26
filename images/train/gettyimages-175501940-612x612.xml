@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>gettyimages-175501940-612x612.jpg</filename>
+	<path>D:\Temp Workspace\SSD controller\images\gettyimages-175501940-612x612.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>408</width>
+		<height>612</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>move</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>112</xmin>
+			<ymin>59</ymin>
+			<xmax>315</xmax>
+			<ymax>429</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>zoe_faces-750x0-c-default.jpg</filename>
+	<path>D:\Temp Workspace\SSD controller\images\zoe_faces-750x0-c-default.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>750</width>
+		<height>1127</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>shoot</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>260</xmin>
+			<ymin>610</ymin>
+			<xmax>496</xmax>
+			<ymax>711</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>smiling-woman.jpg</filename>
+	<path>D:\Temp Workspace\SSD controller\images\smiling-woman.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>922</width>
+		<height>342</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>shoot</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>390</xmin>
+			<ymin>226</ymin>
+			<xmax>547</xmax>
+			<ymax>305</ymax>
+		</bndbox>
+	</object>
+</annotation>

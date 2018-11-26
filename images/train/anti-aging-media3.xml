@@ -1,0 +1,38 @@
+<annotation>
+	<folder>images</folder>
+	<filename>anti-aging-media3.jpg</filename>
+	<path>D:\Temp Workspace\SSD controller\images\anti-aging-media3.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>541</width>
+		<height>361</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>shoot</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>71</xmin>
+			<ymin>251</ymin>
+			<xmax>187</xmax>
+			<ymax>293</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>shoot</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>351</xmin>
+			<ymin>247</ymin>
+			<xmax>474</xmax>
+			<ymax>297</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,12 @@
+item {
+	id:1
+	name:"aim"
+}
+item {
+	id:2
+	name:"move"
+}
+item {
+	id:3
+	name:"shoot"
+}

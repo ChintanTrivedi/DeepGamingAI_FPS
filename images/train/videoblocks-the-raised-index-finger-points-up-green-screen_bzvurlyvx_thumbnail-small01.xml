@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>videoblocks-the-raised-index-finger-points-up-green-screen_bzvurlyvx_thumbnail-small01.jpg</filename>
+	<path>D:\Temp Workspace\SSD controller\images\videoblocks-the-raised-index-finger-points-up-green-screen_bzvurlyvx_thumbnail-small01.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>320</width>
+		<height>180</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>move</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>115</xmin>
+			<ymin>32</ymin>
+			<xmax>181</xmax>
+			<ymax>156</ymax>
+		</bndbox>
+	</object>
+</annotation>

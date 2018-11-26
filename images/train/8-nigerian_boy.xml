@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>8-nigerian_boy.jpg</filename>
+	<path>D:\Temp Workspace\SSD controller\images\8-nigerian_boy.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>900</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>shoot</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>277</xmin>
+			<ymin>358</ymin>
+			<xmax>469</xmax>
+			<ymax>435</ymax>
+		</bndbox>
+	</object>
+</annotation>

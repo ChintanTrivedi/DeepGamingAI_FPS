@@ -1,0 +1,38 @@
+<annotation>
+	<folder>images</folder>
+	<filename>depositphotos_201189466-stock-photo-impressed-attractive-tanned-girlfriend-with.jpg</filename>
+	<path>D:\Temp Workspace\SSD controller\images\depositphotos_201189466-stock-photo-impressed-attractive-tanned-girlfriend-with.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1600</width>
+		<height>1167</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>move</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1146</xmin>
+			<ymin>286</ymin>
+			<xmax>1237</xmax>
+			<ymax>472</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>shoot</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>797</xmin>
+			<ymin>335</ymin>
+			<xmax>851</xmax>
+			<ymax>378</ymax>
+		</bndbox>
+	</object>
+</annotation>

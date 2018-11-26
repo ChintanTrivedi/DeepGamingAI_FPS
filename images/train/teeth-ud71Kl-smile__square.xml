@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>teeth-ud71Kl-smile__square.jpg</filename>
+	<path>D:\Temp Workspace\SSD controller\images\teeth-ud71Kl-smile__square.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>400</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>shoot</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>65</xmin>
+			<ymin>78</ymin>
+			<xmax>295</xmax>
+			<ymax>190</ymax>
+		</bndbox>
+	</object>
+</annotation>

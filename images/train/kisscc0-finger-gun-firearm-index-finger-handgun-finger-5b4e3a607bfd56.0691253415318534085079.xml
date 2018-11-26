@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>kisscc0-finger-gun-firearm-index-finger-handgun-finger-5b4e3a607bfd56.0691253415318534085079.jpg</filename>
+	<path>D:\Temp Workspace\SSD controller\images\kisscc0-finger-gun-firearm-index-finger-handgun-finger-5b4e3a607bfd56.0691253415318534085079.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1500</width>
+		<height>750</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>move</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>344</xmin>
+			<ymin>55</ymin>
+			<xmax>1053</xmax>
+			<ymax>689</ymax>
+		</bndbox>
+	</object>
+</annotation>

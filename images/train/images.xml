@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>images.jpg</filename>
+	<path>D:\Temp Workspace\SSD controller\images\images.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>277</width>
+		<height>182</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>aim</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>77</xmin>
+			<ymin>109</ymin>
+			<xmax>113</xmax>
+			<ymax>145</ymax>
+		</bndbox>
+	</object>
+</annotation>

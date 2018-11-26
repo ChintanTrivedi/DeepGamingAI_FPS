@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>tdy_news_or_tennis_balls_180321_1920x1080.jpg</filename>
+	<path>D:\Temp Workspace\SSD controller\images\tdy_news_or_tennis_balls_180321_1920x1080.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>aim</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>703</xmin>
+			<ymin>229</ymin>
+			<xmax>1292</xmax>
+			<ymax>814</ymax>
+		</bndbox>
+	</object>
+</annotation>

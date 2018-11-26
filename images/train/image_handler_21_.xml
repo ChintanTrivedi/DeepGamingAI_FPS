@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>image_handler_21_.jpg</filename>
+	<path>D:\Temp Workspace\SSD controller\images\image_handler_21_.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1416</width>
+		<height>797</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>aim</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>628</xmin>
+			<ymin>285</ymin>
+			<xmax>960</xmax>
+			<ymax>616</ymax>
+		</bndbox>
+	</object>
+</annotation>
